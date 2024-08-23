@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 module.exports = {
   e2e: {
     supportFile: false,
